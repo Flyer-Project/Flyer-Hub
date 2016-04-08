@@ -1,1 +1,2 @@
-language: Julia
+language: csharp
+solution: Flyer-Hub.sln
