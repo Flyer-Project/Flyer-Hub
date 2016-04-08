@@ -14,7 +14,7 @@ using System.Threading;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace Flyer-Hub
+namespace FlyerHub
 {
 
     public partial class frmMain : Form
